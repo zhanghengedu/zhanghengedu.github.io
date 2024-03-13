@@ -20,7 +20,6 @@
     <div class="links">
       <a href="https://" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.coms" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://www" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
     </div>
   </div>
