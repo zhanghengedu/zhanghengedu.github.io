@@ -15,7 +15,7 @@
   <li><a href="https://www." target="_blank"> XXXXXXXX </a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Membership & Activities</h4>
+<h4 style="margin:0 10px 0;">Membership</h4>
 
 <ul style="margin:0 0 20px;">
   <li><strong>[2019-present]</strong> Member of the <a href="https://www." target="_blank"> XXXXXXXX </a></li>
