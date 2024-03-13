@@ -14,7 +14,7 @@ working under the mentorship of Prof.<a href="https://web.edu.hku.hk/faculty-aca
 
 
 ## Awards
-- **[2022-2024]** <a>*HKU Postgraduate Scholarship*</a> for PhD student.
+- **[2022-2026]** <a>*HKU Postgraduate Scholarship*</a> for PhD student.
 
 
 <!-- {% include_relative _includes/publications.md %} -->
