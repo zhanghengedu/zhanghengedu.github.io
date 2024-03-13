@@ -1,10 +1,10 @@
 <h2 id="Talks" style="margin: 2px 0px -15px;">Talks</h2>
-
+<!--
 <div class="publications">
-<ol class="bibliography">
+<ol class="bibliography">-->
 
 
-
+<!--
 <li>
 <div class="pub-row">
 
@@ -76,7 +76,7 @@
       <!-- <a href="assets/files/ENAR2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
     </div>
-  </div>
+<!--  </div>
 </div>
 </li>
   
@@ -102,7 +102,7 @@
       <!-- <a href="assets/files/JSM2022.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
     </div>
-  </div>
+<!--  </div>
 </div>
 </li>
   
@@ -127,7 +127,7 @@
       <!-- <a href="assets/files/JSM2022.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
     </div>
-  </div>
+<!--  </div>
 </div>
 </li>
   
@@ -153,10 +153,10 @@
       <!-- <a href="assets/files/JSM2021.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
     </div>
-  </div>
+<!--  </div>
 </div>
 </li>
   
 
 </ol>
-</div>
+</div> -->
