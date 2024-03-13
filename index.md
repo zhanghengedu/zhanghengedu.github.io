@@ -16,7 +16,7 @@ working under the mentorship of Prof. Dr.<a href="https://web.edu.hku.hk/faculty
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/talks.md %}
 
