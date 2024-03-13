@@ -20,5 +20,4 @@
 <ul style="margin:0 0 20px;">
   <li><strong>[2019-present]</strong> Member of the <a href="https://www." target="_blank"> XXXXXXXX </a></li>
   <li><strong>[2019-present]</strong> Member of the <a href="https://www." target="_blank"> XXXXXXXXX </a></li>
-  <li><strong>[2021-2022]</strong> Chair of the <a href="https:// target="_blank"> XXXXXXXXXXXX</li>
 </ul>
