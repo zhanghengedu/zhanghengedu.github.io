@@ -13,16 +13,16 @@ working under the mentorship of Prof. Dr.<a href="https://web.edu.hku.hk/faculty
 - **Learning Sciences:** cognitive psychology and computer science.
 
 
-## Awards
-- **[2022-2026]** <a>*HKU Postgraduate Scholarship*</a> for PhD student.
-
-
 
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/talks.md %}
+
+
+## Awards
+- **[2022-2026]** <a>*HKU Postgraduate Scholarship*</a> for PhD student.
 
 
 {% include_relative _includes/services.md %}
