@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a> Knowledge Management & E-Learning (ESCI, IF:2.4)</a></li>
+  <li><a> Knowledge Management & E-Learning (ESCI, IF: 2.4)</a></li>
 
 </ul>
 
