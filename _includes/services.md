@@ -15,6 +15,12 @@
   <li><a href="https://www." target="_blank"> XXXXXXXX </a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://www.bera.ac.uk/conference/bera-conference-2024-and-wera-focal-meeting" target="_blank"> 2024 British Educational Research Association Annual Conference (BERA)</a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Membership</h4>
 
 <ul style="margin:0 0 20px;">
