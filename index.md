@@ -10,7 +10,7 @@ working under the mentorship of Prof. Dr.<a href="https://web.edu.hku.hk/faculty
 
 ## Research Interests
 - **Technology-enhanced Learning:** using AI and computer technologies to assist education.
-- **Learning Sciences:** cognitive psychology and computer science.
+- **Learning Sciences:** the intersection of cognitive science and computer science.
 
 
 
