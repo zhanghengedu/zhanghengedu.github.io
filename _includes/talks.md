@@ -21,7 +21,7 @@
       <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://ww2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <!-- <a href="assets/files/JSM2021.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
+      <strong><i style="color:#7b5aa6">xxxxx Talk</i></strong>
     </div>
   </div>
 </div>
