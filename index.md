@@ -38,4 +38,4 @@ working under the mentorship of Prof. Dr.<a href="https://web.edu.hku.hk/faculty
 ## Contact
 - **Email:** zhangheg@connect.hku.hk
 - **Phone:** (+852) 6478-4660
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14767.461483000361!2d114.1365621!3d22.2830891!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403ff8427b43597%3A0x2c48f5d3cd6fc8d8!2z6aaZ5riv5aSn5a2m!5e0!3m2!1szh-CN!2shk!4v1710323745937!5m2!1szh-CN!2shk" width="800" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14768.422826900909!2d114.1242357011222!3d22.273985281954715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403ff8427b43597%3A0x2c48f5d3cd6fc8d8!2sThe%20University%20of%20Hong%20Kong%20(HKU)!5e0!3m2!1sen!2shk!4v1710420537163!5m2!1sen!2shk" width="800" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
