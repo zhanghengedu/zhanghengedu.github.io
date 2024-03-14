@@ -13,9 +13,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/JSM2021.pdf" target="_blank">xxxxx: Linear Transformations xxxxxs</a></div>
+    <div class="title"><a href="assets/files/JSM2021.pdf" target="_blank">xxxxx: xxxxxxxxxxxxxxxxxx</a></div>
     <div class="author"><strong>xxxxxxx</strong>, xxxxxxx</div>
-    <div class="periodical"><em>xxxxxxxxx<strong>(JSM)</strong>, 202x, Online.</em></div>
+    <div class="periodical"><em>xxxxxxxxx<strong>(xxxxx)</strong>, 202x, Online.</em></div>
     <div class="links">
       <a href="assets/files/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
