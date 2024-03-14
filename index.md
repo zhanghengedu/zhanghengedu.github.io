@@ -22,7 +22,7 @@ working under the mentorship of Prof. Dr.<a href="https://web.edu.hku.hk/faculty
 
 
 ## Awards
-- **[2022-2026]** <a>*HKU Postgraduate Scholarship*</a>.
+- **[2022-2026]** <a>*HKU Postgraduate Scholarship*</a>
 
 
 {% include_relative _includes/services.md %}
