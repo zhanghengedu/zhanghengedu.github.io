@@ -21,9 +21,10 @@ working under the mentorship of Prof. Dr.<a href="https://web.edu.hku.hk/faculty
 {% include_relative _includes/talks.md %}
 
 
-## Awards
+## Honours & Awards
 - **[2022-2026]** <a>*HKU Postgraduate Scholarship*</a>
-
+- **[2021]** <a>*Master Outstanding Academic Scholarship*</a>
+- **[2020]** <a>*Master Outstanding Academic Scholarship*</a>
 
 {% include_relative _includes/services.md %}
 
