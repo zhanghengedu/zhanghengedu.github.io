@@ -14,7 +14,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth" target="_blank">xxxxxxxxxStudy</a></div>
+    <div class="title"><a href="https://americanhealth" target="_blank">xxxxxxxxxStudy （in press）</a></div>
     <div class="author">xxxxxxxxxxxxxx <strong>xxxxxxxxxx</strong>, and etc. </div>
     <div class="periodical"><em>thexxxxx.</em></div>
     <div class="links">
