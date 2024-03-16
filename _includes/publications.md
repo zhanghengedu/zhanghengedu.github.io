@@ -10,17 +10,16 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/kmel2403.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">XXXXX</abbr>
+    <abbr class="badge">KM&EL</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth" target="_blank">xxxxxxxxxStudy （in press）</a></div>
-    <div class="author"><strong>xxxxxxxxxx</strong> and xxxx. </div>
-    <div class="periodical"><em>thexxxxx.</em></div>
+    <div class="title"><a href="https://americanhealth" target="_blank">A novel deep learning model to improve the recognition of students’ facial expressions in online learning environments</a></div>
+    <div class="author"><strong>Heng Zhang</strong> & Minhong Wang. </div>
+    <div class="periodical"><em>Knowledge Management & E-Learning</em></div>
     <div class="links">
       <a href="https://" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-      <a href="https://www" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
     </div>
   </div>
 </div>
