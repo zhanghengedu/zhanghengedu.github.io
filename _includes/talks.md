@@ -17,9 +17,7 @@
     <div class="author"><strong>xxxxxxx</strong>, xxxxxxx</div>
     <div class="periodical"><em>xxxxxxxxx<strong>(xxxxx)</strong>, 202x.</em></div>
     <div class="links">
-      <a href="assets/files/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ww2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
-      <!-- <a href="assets/files/JSM2021.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <strong><i style="color:#7b5aa6">xxxxx xxxxx</i></strong>
     </div>
   </div>
