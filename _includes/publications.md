@@ -15,7 +15,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="author"><strong>Heng Zhang</strong> & Minhong Wang. (2024)</div>
-    <div class="title"><a href="https://americanhealth" target="_blank">A novel deep learning model to improve the recognition of students’ facial expressions in online learning environments</a></div>
+    <div class="title"><a>A novel deep learning model to improve the recognition of students’ facial expressions in online learning environments</a></div>
     <div class="periodical"><em>Knowledge Management & E-Learning (IF: 2.4)</em></div>
     <div class="links">
       <a href="https://www." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
