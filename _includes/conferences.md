@@ -17,7 +17,7 @@
     <div class="periodical"><em>xxxxx <strong>(XXXXXX)</strong>.202XX.</em></div>
     <div class="links">
       <a href="https://www." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
-      <strong><i style="color:#7b5aa6">xxxx.org</i></strong>
+      <strong><i style="color:#7b5aa6">xxxxxxxx</i></strong>
     </div>
   </div>
 </div>
