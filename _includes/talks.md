@@ -15,7 +15,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/xxxx.pdf" target="_blank">xxxxx: xxxxxxxxxxxxxxxxxx</a></div>
     <div class="author"><strong>xxxxxxx</strong>, xxxxxxx</div>
-    <div class="periodical"><em>xxxxxxxxx<strong>(xxxxx)</strong>, 202x, Online.</em></div>
+    <div class="periodical"><em>xxxxxxxxx<strong>(xxxxx)</strong>, 202x.</em></div>
     <div class="links">
       <a href="assets/files/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ww2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
