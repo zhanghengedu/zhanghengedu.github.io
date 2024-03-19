@@ -18,7 +18,7 @@
     <div class="links">
       <a href="https://www." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
       <a href="https://www." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <strong><i style="color:#7b5aa6">Oral present</i></strong>
+      <strong><i style="color:#7b5aa6">xxxx present</i></strong>
     </div>
   </div>
 </div>
