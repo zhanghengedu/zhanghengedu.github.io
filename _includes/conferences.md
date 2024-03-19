@@ -17,7 +17,7 @@
     <div class="periodical"><em>xxxxxxx.202X</em></div>
     <div class="links">
       <a href="https://www." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
-      <a href="https://www." class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://www.aera.net/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <strong><i style="color:#7b5aa6">present</i></strong>
     </div>
   </div>
