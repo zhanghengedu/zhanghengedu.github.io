@@ -27,14 +27,13 @@ working under the mentorship of Prof. Dr.<a href="https://web.edu.hku.hk/faculty
 - **[2020]** <a>*Master Annual Excellence Scholarship*</a>
 
 {% include_relative _includes/services.md %}
-<br>
 
 
 ## Resources
-<!-- - <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
+<!-- - <a href="https://LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> 
+- <a href="https://github.com/lob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-<!-- - <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou -->
+<!-- - <a href="https:///ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> -->
 <br>
 
 ## Contact me, looking forward to your emails!
