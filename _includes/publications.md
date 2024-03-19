@@ -19,6 +19,7 @@
     <div class="periodical"><em>Knowledge Management & E-Learning (IF: 2.4)</em></div>
     <div class="links">
       <a href="assets/files/kmel_240319.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
+      <a href="https://www.kmel-journal.org/ojs/index.php/online-publication/article/view/578" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
     </div>
   </div>
 </div>
