@@ -18,7 +18,7 @@
     <div class="periodical"><em>International Conference on Technology-Enhanced Language Learning and Teaching & Corpus-based Language Learning and Teaching 2024 (TeLLT & CoLLT 2024), Hong Kong</em></div>
     <div class="links">
       <a href="https://www.eduhk.hk/lml/telltcollt2024/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Access</a>
-      <strong><i style="color:#7b5aa6">xxxxx xxxxx</i></strong>
+      <strong><i style="color:#7b5aa6"></i></strong>
     </div>
   </div>
 </div>
