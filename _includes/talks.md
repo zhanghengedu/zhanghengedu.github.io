@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JSM2021.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/kmel2024.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TeLLT & CoLLT 2024</abbr>
   </div>
 
