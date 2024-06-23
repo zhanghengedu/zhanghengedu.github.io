@@ -33,14 +33,14 @@ Prior to this, I earned a master's degree in Computer Science and a bachelor's d
 {% include_relative _includes/services.md %}
 
 
-## Resources
+<!--## Resources
 <!-- - <a href="https://LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> 
 - <a href="https://github.com/lob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
 <!-- - <a href="https:///ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> -->
 <br>
 
-## Contact me, looking forward to your emails!
+## Contact me!
 - **Email:** zhangheg@connect.hku.hk
 - **Phone:** (+852) 64784660
 
