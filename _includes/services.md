@@ -11,6 +11,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a>2024 British Educational Research Association Annual Conference (BERA)</a></li>
+  <li><a>2024 IEEE Frontiers in Education Conference (FIE)</a></li>
 </ul>
 
 <!--<h4 style="margin:0 10px 0;">Membership</h4>
