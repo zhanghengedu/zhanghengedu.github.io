@@ -11,7 +11,7 @@ Prior to this, I earned a master's degree in Computer Science and a bachelor's d
 
 
 ## Research Interests
-- **Learning Sciences:** the intersection of cognitive science and psychology.
+- **Learning Sciences:** the intersection of cognitive science and educational psychology.
 - **Technology-enhanced Learning:** using technologies to assist education.
 
 
