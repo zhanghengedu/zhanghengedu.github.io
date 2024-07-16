@@ -22,6 +22,7 @@ Prior to this, I earned a master's degree in Computer Science and a bachelor's d
 
 {% include_relative _includes/conferences.md %}
 
+{% include_relative _includes/talk.md %}
 
 ## Honours & Awards
 - **[2022-2026]** <a>*HKU Postgraduate Scholarship*</a>
