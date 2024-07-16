@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a target="_blank">A Review of Artificial Intelligence Applications on EFL Education</a></div>
+    <div class="title"><a target="_blank">A Review of Artificial Intelligence Applications on EFL Educations</a></div>
     <div class="author">Yuhan Liu, <strong>Heng Zhang</strong>, Meilin Jiang, Juanjuan Chen, Minhong Wang</div>
     <div class="periodical"><em>International Conference on Technology-Enhanced Language Learning and Teaching & Corpus-based Language Learning and Teaching 2024, Hong Kong</em></div>
     <div class="links">
