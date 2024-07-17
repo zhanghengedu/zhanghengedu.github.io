@@ -10,6 +10,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a>2025 American Educational Research Association Annual Meeting (AERA)</a></li>
   <li><a>2024 British Educational Research Association Annual Conference (BERA)</a></li>
   <li><a>2024 IEEE Frontiers in Education Conference (FIE)</a></li>
 </ul>
